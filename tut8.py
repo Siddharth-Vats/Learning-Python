@@ -24,4 +24,4 @@ print(mystr.capitalize()) # capitalizes the first letter of the given string
 print(mystr.find("is")) # finds the given characters in a given string
 print(mystr.lower()) # converts the characters in lower case
 print(mystr.upper()) # converts the characters in upper case
-print(mystr.replace("a", "the"))
+print(mystr.replace("a", "the")) # replaces the characters
