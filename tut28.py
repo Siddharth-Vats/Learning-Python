@@ -1,5 +1,5 @@
 # f = open("siddharth.txt", "w") # to write something
-# f = open("siddharth.txt", "w") # to append something
+# f = open("siddharth.txt", "a") # to append something
 # a = f.write("Siddharth bahut aacha hain")
 # print(a)
 # f.close()
